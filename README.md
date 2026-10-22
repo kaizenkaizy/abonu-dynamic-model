@@ -5,6 +5,9 @@
 **Copyright:** © 2026 Abonu Daniel. All rights reserved.
 
 
+SITE TO THE CALCULATOR:
+
+https://sites.google.com/view/the-abonu-dynamic-model/full-page-embed
 
 
 The Abonu Dynamic Model of Connection
